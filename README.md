@@ -1,16 +1,11 @@
-# flutter_mvvm
+# 나의 Flutter 개발앱
 
-A new Flutter project.
+### Simple MVVM 
+ - View : 사용자에게 보여지는 영역
+ - ViewModel : View의 상태를 관리하고 View의 비즈니스 로직을 담당
+ - Repository : 데이터 저장소라는 뜻으로 DataLayer인 DataSource에 접근
+ - DataSource : 데이터를 가져오는 영역
+ - Model : 데이터 설계
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Build layouts
+- https://docs.flutter.dev/ui/layout/tutorial
